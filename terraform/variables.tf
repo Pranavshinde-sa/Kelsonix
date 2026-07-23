@@ -3,3 +3,4 @@ variable "aws_region" {
   description = "AWS region for infrastructure"
   default     = "ap-south-1"
 }
+
